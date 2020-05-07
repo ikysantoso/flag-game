@@ -1,5 +1,5 @@
 # flag-game
-Guess the flag application
+Guess the flag game
 
 ## Built With
 
